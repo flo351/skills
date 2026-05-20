@@ -30,7 +30,9 @@ cp -R skills/plugins/<skill-name>/skills/<skill-name> <YOUR_TOOL_SKILLS_DIR>/
 
 ## Available skills
 
-_(none yet)_
+| Name | Description | Use case |
+|---|---|---|
+| `skill-creator` | Create or modify an agent skill (Claude Code marketplace, standalone, or other tools) | Generic, identity-free, runtime-configured scaffolding with GitHub marketplace integration |
 
 ## License
 
