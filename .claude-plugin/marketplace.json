@@ -5,11 +5,5 @@
     "url": "https://github.com/flo351"
   },
   "description": "Personal collection of Claude Code skills by flo351.",
-  "plugins": [
-    {
-      "name": "skill-creator-flo",
-      "source": "./plugins/skill-creator-flo",
-      "description": "Coordinate creation or modification of Claude Code skills (personal marketplace, standalone, or other tools)."
-    }
-  ]
+  "plugins": []
 }

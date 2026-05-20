@@ -30,9 +30,7 @@ cp -R skills/plugins/<skill-name>/skills/<skill-name> <YOUR_TOOL_SKILLS_DIR>/
 
 ## Available skills
 
-| Name | Description | Use case |
-|---|---|---|
-| `skill-creator-flo` | Create or modify a Claude Code skill | End-to-end scaffolding with GitHub marketplace integration |
+_(none yet)_
 
 ## License
 
